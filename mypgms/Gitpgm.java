@@ -1,5 +1,5 @@
 public class Gitpgm{
 	public static void main(){
-		System.out.println("Git first push")
+		System.out.println("Git first pull");
 	}
 }
