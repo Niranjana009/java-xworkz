@@ -4,7 +4,7 @@ class ForLoop1234{
 					int k=4;
 					for(int j=1; j<5; j++){
 				        if (i==1){
-							System.out.print(j+" ");
+							System.out.print(j+" ");// commented to pull from git
 						}.
 						else{
 							k++;
