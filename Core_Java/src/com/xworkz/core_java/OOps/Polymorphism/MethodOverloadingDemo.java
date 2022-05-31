@@ -1,0 +1,24 @@
+package com.xworkz.core_java.OOps.Polymorphism;
+
+public class MethodOverloadingDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Add add = new Add();
+		//int sum = add.add(2,3);
+		//int sumOfthreenumber = add.add(2, 3, 4);
+		
+		//double sumoffloatnumber = add.add(2.2, 3.3, 4.4);
+		System.out.println("Sum of two numbers(int type) 2 + 3 = "+add.add(2,3));
+		System.out.println("Sum of three numbers(double type) 2.2 + 3.3 + 4.4 = "+add.add(2.2,3.3,4.4));
+		System.out.println("Sum of two number(float type) 2.2 + 3.3 = "+add.add(2.2f, 3.3f));
+		System.out.println("Sum of three number(int type) 2 + 3 + 4 = "+add.add(2, 3, 4));
+		
+		/*
+		System.out.println(sum);
+		System.out.println(sumOfthreenumber);
+	    */
+	}
+
+}
