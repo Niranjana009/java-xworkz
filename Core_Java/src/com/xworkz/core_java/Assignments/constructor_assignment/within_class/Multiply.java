@@ -5,7 +5,7 @@ public class Multiply {
     {
         System.out.println("default");
     }
- 
+ //
     // parameterized constructor 2
 	Multiply(int x)
     {
