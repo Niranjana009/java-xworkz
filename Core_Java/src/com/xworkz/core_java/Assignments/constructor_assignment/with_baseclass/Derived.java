@@ -6,7 +6,7 @@ public class Derived extends Base {
         System.out.println("No-argument constructor " +
                            "of derived");
     }
- 
+ //
     // parameterized constructor 4
     Derived(String name)
     {
