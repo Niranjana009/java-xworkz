@@ -1,4 +1,4 @@
-package com.xworkz.core_java.Constructor;
+package com.xworkz.core_java.Constructor.construtor_demo;
 
 public class Counter {
 
