@@ -6,10 +6,10 @@ public class TataMotors extends TataGroups {
 	
 	
 	
-	/*TataMotors() {
+	TataMotors() {
 		super();
 		// TODO Auto-generated constructor stub
-	}*/
+	}
 	
 	TataMotors(String chairman){
 		super(chairman);
