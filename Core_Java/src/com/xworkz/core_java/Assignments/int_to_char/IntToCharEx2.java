@@ -4,7 +4,7 @@ public class IntToCharEx2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a=1;
+		int a=100;
 		char c=(char)a;
 		System.out.println(c);// printing some symbol
 	}
