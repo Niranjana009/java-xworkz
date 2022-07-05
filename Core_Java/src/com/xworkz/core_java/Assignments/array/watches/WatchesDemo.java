@@ -1,0 +1,26 @@
+package com.xworkz.core_java.Assignments.array.watches;
+
+public class WatchesDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		Watches iwatch = new Watches("iwatch","grey","digital",40000);
+		Watches garmin = new Watches("garmin","orange","digital",80000);
+		Watches rolex = new Watches("rolex","silver","analog",10000000);
+		Watches titan = new Watches("titan","gold","digital",9999);
+		
+		Watches[] watches = {iwatch,garmin,rolex,titan};
+	
+
+	for(int i=0; i<watches.length;i++) {
+		if (watches[i].price<10000) {
+			System.out.println("Analog & digtal watches less than 10000rs:");
+			System.out.println(watches[i]);
+		
+		}
+	}
+	
+}
+}
