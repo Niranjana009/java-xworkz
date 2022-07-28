@@ -4,10 +4,10 @@ public class TataGroups {
 	String chairman;
 	String wealth;
 	
-//	TataGroups(){
+	TataGroups(){
 		
-//	}	
-/*	
+	}	
+	
 	TataGroups(String chairman){
 		this("Ratan","10 Billion");
 		System.out.println("Constructed TataGroups Object");
@@ -17,4 +17,4 @@ public class TataGroups {
 		this.chairman = chairman;
 		this.wealth = wealth;
 	}
-}*/
+}

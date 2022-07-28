@@ -15,6 +15,7 @@ public class BikeImpl implements Bike {
 	}
 
 	public BikeDTO getBike(String companyName) {
+		//for(Bike bike:bikes) {
 		for(int i = 0; i<bikes.size();i++) {
 			if(bikes.get(i).getCompanyName() == companyName) {
 				System.out.println("The Bike Details are: " + bikes.get(i));
