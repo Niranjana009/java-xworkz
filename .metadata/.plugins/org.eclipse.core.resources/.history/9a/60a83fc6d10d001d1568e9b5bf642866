@@ -1,0 +1,13 @@
+package com.xworkz.jam;
+
+public class Jam {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			System.out.println("I am Jam : Jim Jam");
+			
+			Vendor vendor = new Vendor();
+			vendor.getname();
+	}
+
+}

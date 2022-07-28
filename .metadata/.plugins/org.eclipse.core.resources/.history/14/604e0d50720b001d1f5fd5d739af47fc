@@ -1,0 +1,18 @@
+package com.xworkz.core_java.collections.set.linkedHashSet;
+
+public class LinkedHashSetDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		LinkedHashSet hash=new LinkedHashSet();
+		hash.add(1);
+		hash.add(2);
+		hash.add(3);
+		hash.add(2);
+		hash.add(null);
+		hash.add("Java");
+		hash.add(null);
+		System.out.println(hash);
+	}
+
+}

@@ -1,0 +1,26 @@
+
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¼RINFOZ
+CODE_SMELL
+„
+java:S1192"NDefine a constant instead of duplicating this literal "[789][0-9]{9}" 4 times.(“ˆ‘é8ÀºîÜ0H¾RCRITICALZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(Ü¯ÚĞşÿÿÿÿ8ÀºîÜ0HÃRMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(¬î½ıúÿÿÿÿ8ÀºîÜ0HÄRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(“ˆ‘é8ÀºîÜ0HÅRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(íì üÿÿÿÿ8ÀºîÜ0HÆRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¯×Œ8ÀºîÜ0HÇRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(àïÉüÿÿÿÿ8ÀºîÜ0HÈRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(­Ä¨«ÿÿÿÿÿ8ÀºîÜ0HÉRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ââùÿÿÿÿ8ÀºîÜ0HÊRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÃÒÁşÿÿÿÿ8ÀºîÜ0HËRMAJORZ
+CODE_SMELL

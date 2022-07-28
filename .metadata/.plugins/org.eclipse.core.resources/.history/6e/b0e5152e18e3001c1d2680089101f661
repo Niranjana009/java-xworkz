@@ -1,0 +1,11 @@
+package com.xworkz.core_java.Constructor;
+
+public class ConstructorDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Counter cnt = new Counter();
+		
+	}
+
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.Assignments.access_modifiers.protected0.Bike"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.Assignments.array.array_as_dao.dto.StudentDTO"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.Assignments.array.array_as_dao.service.StudentServiceImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.Assignments.array.array_as_dao.dao.StudentDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.Assignments.array.array_as_dao.dao.StudentDAOImpl"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.collections.arraylist.dao.BikeImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.collections.arraylist.dao.Bike"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.collections.arraylist.dto.BikeDTO"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.collections.arraylist.services.BikeServices"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.collections.vectors.dao.FlightDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.collections.vectors.dao.FlightDaoImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.collections.vectors.service.FligthServiceImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.collections.vectors.service.FligthService"/>
+    <fullyQualifiedTypeName name="com.xworkz.core_java.collections.vectors.dto.FligthDto"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,32 @@
+
+}
+java:S3973*"GUse indentation to denote the code conditionally executed by this "if".(ó·‰´8±Ïë˜—0HúRCRITICALZ
+CODE_SMELL
+„
+java:S3973,"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8±Ïë˜—0HüRCRITICALZ
+CODE_SMELL
+ˆ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÛÛ¯ø8±Ïë˜—0HşRCRITICALZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(§ÆäÎ8±Ïë˜—0H‰RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8±Ïë˜—0HŠRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ8±Ïë˜—0H‹RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8±Ïë˜—0HŒRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8±Ïë˜—0HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(íäªıÿÿÿÿÿ8±Ïë˜—0HRMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(×•œ²8±Ïë˜—0HRMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ8±Ïë˜—0HRMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(×•œ²8±Ïë˜—0H‘RMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8±Ïë˜—0H’RMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(íäªıÿÿÿÿÿ8±Ïë˜—0H“RMAJORZ
+CODE_SMELL

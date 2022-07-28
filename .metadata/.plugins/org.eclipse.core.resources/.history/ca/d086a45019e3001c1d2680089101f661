@@ -1,0 +1,19 @@
+package com.xworkz.core_java.Constructor;
+
+public class Counter {
+
+		int count;
+		String res;
+		double counters;
+		
+		Counter(){
+			//res = " Inside Default Constructor";
+			//System.out.println("In constructer");
+		}
+		
+		Counter(int num, double cnt){
+			count = num;
+			counters = cnt;
+			//System.out.println("In constructer");
+		}
+}

@@ -1,0 +1,38 @@
+
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHóRINFOZ
+CODE_SMELL
+}
+java:S1192"GDefine a constant instead of duplicating this literal "[amn]+" 4 times.(Ğ­Œ³8øúÇÜ0HõRCRITICALZ
+CODE_SMELL
+‚
+java:S1192
+"GDefine a constant instead of duplicating this literal "[amn]?" 5 times.(Æçüàùÿÿÿÿ8øúÇÜ0HúRCRITICALZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(æÅì8øúÇÜ0H€RMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(Æçüàùÿÿÿÿ8øúÇÜ0HRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¾ÿœÕ8øúÇÜ0H‚RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(²ÆÂ„ûÿÿÿÿ8øúÇÜ0HƒRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(²¤îĞ8øúÇÜ0H„RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(»ÎŠ–úÿÿÿÿ8øúÇÜ0H…RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŞ@8øúÇÜ0H†RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ­Œ³8øúÇÜ0H‡RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ô®—8øúÇÜ0HˆRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(€³8øúÇÜ0H‰RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¡„ş8øúÇÜ0HŠRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÓÍîøÿÿÿÿ8øúÇÜ0H‹RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(·²¨³8øúÇÜ0HŒRMAJORZ
+CODE_SMELL

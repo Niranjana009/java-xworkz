@@ -1,0 +1,42 @@
+
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÄ!RINFOZ
+CODE_SMELL
+b
+java:S3740 "/Provide the parametrized type for this generic.(–‘Éº8óŽÕŸ¢0HÎ!RMAJORZ
+CODE_SMELL
+b
+java:S3740)"/Provide the parametrized type for this generic.(äàç‹8óŽÕŸ¢0HÏ!RMAJORZ
+CODE_SMELL
+ƒ
+java:S1192	"HDefine a constant instead of duplicating this literal "stack: " 3 times.(’ý­´úÿÿÿÿ8óŽÕŸ¢0HÐ!RCRITICALZ
+CODE_SMELL
+ˆ
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(µêñƒúÿÿÿÿ8óŽÕŸ¢0HÔ!RMAJORZ
+CODE_SMELL
+ƒ
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(–‘Éº8óŽÕŸ¢0HÕ!RMAJORZ
+CODE_SMELL
+ƒ
+java:S1149)"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(äàç‹8óŽÕŸ¢0HÖ!RMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(’ý­´úÿÿÿÿ8óŽÕŸ¢0H×!RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(àÃŽ‘8óŽÕŸ¢0HØ!RMAJORZ
+CODE_SMELL
+T
+java:S2129#"!Remove this "Integer" constructor(÷ç½å8óŽÕŸ¢0HÙ!RMAJORZ
+CODE_SMELL
+{
+java:S5738#"HRemove this call to a deprecated method, it has been marked for removal.(÷ç½å8óŽÕŸ¢0HÚ!RMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(÷ÎØðùÿÿÿÿ8óŽÕŸ¢0HÛ!RMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(’ý­´úÿÿÿÿ8óŽÕŸ¢0HÜ!RMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(®•¡’üÿÿÿÿ8óŽÕŸ¢0HÝ!RMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8óŽÕŸ¢0HÞ!RMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(’ý­´úÿÿÿÿ8óŽÕŸ¢0Hß!RMAJORZ
+CODE_SMELL

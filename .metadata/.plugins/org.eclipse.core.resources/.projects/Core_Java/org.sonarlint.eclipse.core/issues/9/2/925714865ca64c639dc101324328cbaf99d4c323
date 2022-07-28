@@ -1,0 +1,16 @@
+
+}
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(­Ë¯„8ðÍÙ˜—0H×RCRITICALZ
+CODE_SMELL
+„
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8ðÍÙ˜—0HÙRCRITICALZ
+CODE_SMELL
+v
+java:S1659">Declare "j" and all following declarations on a separate line.(ùºÐ‹üÿÿÿÿ8ðÍÙ˜—0HÛRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ýÿÿÿÿ8ðÍÙ˜—0HßRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8ðÍÙ˜—0HàRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ðÍÙ˜—0HáRMAJORZ
+CODE_SMELL

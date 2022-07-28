@@ -1,0 +1,347 @@
+1.	What is the use of classloader in java?
+		Classloader used load the class files.
+
+===============================================================================================================================	
+2.	Difference between While and Do-while loop?
+
+		while(condition){
+		//statements
+		}
+		In while loop condition , we check the condition then excute the block of statements
+		
+		
+		do{
+		
+		}
+		while(condition)
+		
+		In do while, we execute the block statement then chechk for the condition. Here loop will execute once, without chechking the condition. 
+===============================================================================================================================		
+		
+3.	Write a program to achieve infinite loop and give reason?
+		
+		public static void main(){
+		    int i = 1;
+			while(i<10){
+			
+				system.out.println("Inside infinte loop"); // this statement print n times
+			}
+		
+		}
+		
+		the program will execute infintely, because condition used in the while loop always be true, so print statement print infintely.  
+===============================================================================================================================		
+
+4.	What is variable? Write the syntax and examples.
+		variable helps to hold data, as ame say variable it may vary.
+		
+		Syntax: "Datatype" "variable" 
+		
+		Examples:int num = 10; // here num is variable name hold integer value of 10
+		
+===============================================================================================================================		
+5.	Which is the basic unit of storage in a program?
+		variables
+===============================================================================================================================
+6.	Write the difference between Static variable, Instance variable and Local variable
+			Static variable:
+				1.these variables are declared inside the class and outside the main method.
+				2.The variable defined with the "static keyword" As name say these variables are which create a single copy and 
+				  which is shared among the all instance.
+				3.these variables acts as global , available throghout the class.
+				
+			Instance varibale:
+				1.these variables are declared inside the class and outside the main method.
+				2.As name say these variables are instance specific and which is not shared among the all instance.
+				3.these variables acts as global , available throghout the class.
+			
+			
+			Local variable:
+				1.these variables are declared outside the class and inside the main method.
+				2.these variables destoryed once completeing the methods excution.
+				3.these are available only inside specific methods, cant access outside of it.
+===============================================================================================================================
+
+7.	We can access the Static variable with the help of object or not, give the Reason
+				Yes, 
+
+===============================================================================================================================
+8.	Define the access specifiers?
+		which help to specify the accessiblity of the class , variable etc.(Public, private, protected)
+		
+===============================================================================================================================
+9.	How many ways are to create Object?
+	Five ways create an object in java
+		- By new keyword
+		- By newInstance() method
+		- By clone() method
+		- By serialization
+		- By factory method
+===============================================================================================================================
+
+10.	What is deserialization?
+	
+===============================================================================================================================
+11.	What is Anonymous objects?
+
+===============================================================================================================================
+12.	Explain the class and method signature?
+				
+				
+				
+===============================================================================================================================
+13.	Explain the wrapper classes? Why its need in java?
+===============================================================================================================================
+14.	What is constructor and Destructor in java?
+
+===============================================================================================================================
+15.	How constructor differ from methods?
+		constructor name shoud be always same as class name, method name can be anything(not mandatory to have class name.)
+===============================================================================================================================
+16.	Explain the Types of constructor with example?
+		- Default constructor: it is implicity defind by compiler , when we create objects.
+				
+					class Apple{
+				
+					Apple(){
+					s.o.p("Default constructor");
+					}
+				}
+				- parameterized constructor: the constructor passed by the arguments,when we create objects
+				class Apple{
+				
+					Apple(int num){
+					s.o.p("Default constructor");
+					}
+				}
+===============================================================================================================================
+17.	If Copy constructor is supported In Java? Give example
+	
+===============================================================================================================================
+18.	What is constructor chaining? Why we need?
+		Constructor chaining is the 
+===============================================================================================================================
+19.	What is the use of super and This keyword in java?
+		Super is used to call parent class , this keyword is used to differentiate the same parameters names, which help to point current instance.
+===============================================================================================================================
+20.	What is use of this() in java?
+	 can used for invoking current class constructor.
+===============================================================================================================================
+21.	Can we have private constructors ?
+	yes
+===============================================================================================================================
+22.	What is a Singleton class?
+
+===============================================================================================================================
+23.	Write the types of polymorphism with example and how we will achieve in java
+			As names says using different types executing the actions
+				
+				two types:
+					1. Method overloading (compiletime): Where same methods can call with have diffrent datatypes and different numbers parameters.
+						e,g
+								add(int a, int b){
+								return a+b;
+								}
+								
+								add(int a, float b){
+								return a+b;
+								}
+								
+								add(int a, int b, int c){
+								return a+b+c;
+								}
+					
+					
+					2. Method overriding (Runtime): where we can change the implementation of methods
+						e.g
+						
+						class Bank{
+							void interest(){
+							s.o.p("Bank interest is 10%");
+							}
+						}
+						
+						class HDFC extends Bank{
+						void interest(){
+							s.o.p("HDFC interest is 9%");
+							}
+						}
+						
+						class SBI{
+						void interest(){
+							s.o.p("SBI interest is 8%");
+							}
+						}
+===============================================================================================================================
+24.	Difference between Method overloading and method overriding?
+		Method overloading (compiletime): Where same methods can call with have diffrent datatypes and different numbers parameters.
+						e,g
+								add(int a, int b){
+								return a+b;
+								}
+								
+								add(int a, float b){
+								return a+b;
+								}
+								
+								add(int a, int b, int c){
+								return a+b+c;
+								}
+								
+	   Method overriding (Runtime): where we can change the implementation of methods
+						e.g
+						
+						class Bank{
+							void interest(){
+							s.o.p("Bank interest is 10%");
+							}
+						}
+						
+						class HDFC extends Bank{
+						void interest(){
+							s.o.p("HDFC interest is 9%");
+							}
+						}
+						
+						class SBI{
+						void interest(){
+							s.o.p("SBI interest is 8%");
+							}
+						}
+
+===============================================================================================================================
+25.	Advantages of Dynamic Method Dispatch?
+
+===============================================================================================================================
+26.	What is static and Dynamic binding?
+
+===============================================================================================================================
+27.	Why we need method overriding? Can we override the below methods?
+		where we can change the implementation of methods
+		1.main() 2.static()  4.Constructor()  
+		
+		cannot override : 3.final() 5.Abstruct()
+===============================================================================================================================
+32. When to use abstract classes and abstract methods with an example
+		Abstraction is used to show functionality and hide implementation from the user. like e.g sms, user know hoe to send /recive sms, dont know the internal implementtaion of sms.
+			
+			
+			E,g:
+			abstract class Demo{
+				abstract void demo();
+			}
+			
+			class Main_Ex extends Demo{
+					void demo(){
+						s.o.p("Abstarct demo");
+					}
+			}
+===============================================================================================================================			
+33. Why do we use an Interface?
+		where we hide the implementation from the user, and to show only functionality to the user. by default methods inside interface will be abstract.  
+		we use interface , to achive the Multiple Inheritance and hybrid inheritance.
+===============================================================================================================================
+34. Difference Between Class and Interfaces
+			In Class methods are not abstract method by default.
+			In Interface the methods are abstract by default.
+===============================================================================================================================			
+35. Can we have Nested Interfaces? Give Examples
+		yes
+===============================================================================================================================
+37. Write a program to print even and odd elements in an Array separately
+
+	public class PrintEvenOddEleArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] arr = new int[6]; 
+		System.out.println("Given Array elements are:");
+		for (int i=0; i< arr.length; i++) {
+			 arr[i] = i;
+			 System.out.print(" "+arr[i]+" ");
+		}
+		System.out.println();
+		System.out.println("Even index of elements are:");
+		for (int i=0; i< arr.length; i++) {
+			
+			if (i%2 == 0) {
+			 arr[i] = i;
+			 System.out.print(" "+arr[i]+" ");
+			}
+		}
+		System.out.println();
+		
+		System.out.println("Odd index of elements are:");
+		for (int i=0; i< arr.length; i++) {
+			
+			if (i%2 != 0) {
+			 arr[i] = i;
+			 System.out.print(" "+arr[i]+" ");
+			}
+		}
+		System.out.println();
+		
+		
+	}
+
+}
+
+
+output:
+Given Array elements are:
+ 0  1  2  3  4  5 
+Even index of elements are:
+ 0  2  4 
+Odd index of elements are:
+ 1  3  5 
+ 
+ 
+===============================================================================================================================
+38. “ArrayIndexOutOfBoundsException” when we will get this error?
+
+===============================================================================================================================
+39. Are static local variables allowed in Java?
+	No
+===============================================================================================================================	
+40. Java program to print the sum of all the items of the array
+
+
+public class SumOfArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] arr = new int[5];  
+		// arr = {1 ,2,3,4,5};
+		int sum = 0;
+		
+		System.out.println("List of array elements are:");
+		for (int i=0; i< arr.length; i++) {
+			 arr[i] = i;
+			 System.out.print(" "+arr[i]+" ");
+		}
+		System.out.println();
+		
+		for (int i=0; i< arr.length; i++) {
+			
+			sum = sum+arr[i];
+			
+		}
+		System.out.println("Sum of the array: "+sum);
+	}
+
+}
+
+Output:
+
+List of array elements are:
+ 0  1  2  3  4 
+Sum of the array: 10
+===============================================================================================================================
+
+41. Java program to sort the elements of an array in ascending order
+
+===============================================================================================================================
+
+42. Java program to remove Duplicate Elements in an Array
+
+===============================================================================================================================

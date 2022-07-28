@@ -1,0 +1,12 @@
+
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHŸRINFOZ
+CODE_SMELL
+j
+java:S1854"7Remove this useless assignment to local variable "obj".( Á”8¬“ÖÜ”0H RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ÚÉ˜´úÿÿÿÿ8¬“ÖÜ”0H¡RMAJORZ
+CODE_SMELL
+[
+java:S1481"(Remove this unused "obj" local variable.( Á”8¬“ÖÜ”0HRMINORZ
+CODE_SMELL

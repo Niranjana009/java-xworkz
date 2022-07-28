@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Core_Java/src/com/xworkz/core_java/OOps/Polymorphism/overriding/RBI.java&apos;" deleteContents="false" description="Delete resource &apos;Core_Java/src/com/xworkz/core_java/OOps/Polymorphism/overriding/RBI.java&apos;" element1="/Core_Java/src/com/xworkz/core_java/OOps/Polymorphism/overriding/RBI.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1654060932825"/>
+</session>

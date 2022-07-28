@@ -1,0 +1,10 @@
+package com.xworkz.core_java.OOps.Inheritance.Single_Inheritance.Bird_Eagle;
+
+public class Bike {
+	void ride() {
+		System.out.println("Can ride");
+	}
+	void twowhleer() {
+		System.out.println("Bike is two wheeler");
+	}
+}

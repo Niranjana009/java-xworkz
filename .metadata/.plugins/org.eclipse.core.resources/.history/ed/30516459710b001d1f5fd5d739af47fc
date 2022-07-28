@@ -1,0 +1,8 @@
+package com.xworkz.core_java.collections.hashSetDtoDaoService.dao;
+
+public interface TrainDao {
+	public void save(TrainDto dto);
+	TrainDto getTrain(String destination );
+	public void updateNameByTime(String nameToUpdate,String time);
+	public void deleteSourceByTime(String sourceToDelete,String time);
+}

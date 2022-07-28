@@ -1,0 +1,13 @@
+
+n	java:S125C"<This block of commented-out lines of code should be removed.(¦ àÚ8Çş¦Ÿ¢0Hø RMAJORZ
+CODE_SMELL
+s	java:S125<"<This block of commented-out lines of code should be removed.(Òø±¢úÿÿÿÿ8”Ô¤Ÿ¢0Hï RMAJORZ
+CODE_SMELL
+s	java:S125
+"<This block of commented-out lines of code should be removed.( ƒêÏùÿÿÿÿ8Ìİ¢Ÿ¢0Hç RMAJORZ
+CODE_SMELL
+s	java:S1258"<This block of commented-out lines of code should be removed.(û®Ó™üÿÿÿÿ8”Ô¤Ÿ¢0Hì RMAJORZ
+CODE_SMELL
+¼
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤ñ½ÿÿÿÿÿ8õØ‹Ÿ¢0HùRCRITICALZ
+CODE_SMELL

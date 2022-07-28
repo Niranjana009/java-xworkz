@@ -1,0 +1,17 @@
+
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(¬ÛËªúÿÿÿÿ8ÊÞ‚Û”0H©RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHªRINFOZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(äÙ¥Üÿÿÿÿÿ8ÌºÉÛ”0H«RMAJORZ
+CODE_SMELL
+v
+java:S1854	">Remove this useless assignment to local variable "tatagroups".(¡ò…´ÿÿÿÿÿ8°’Äé—0H¬RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ž¼ø úÿÿÿÿ8±’Äé—0H­RMAJORZ
+CODE_SMELL
+g
+java:S1481	"/Remove this unused "tatagroups" local variable.(¡ò…´ÿÿÿÿÿ8±’Äé—0H®RMINORZ
+CODE_SMELL

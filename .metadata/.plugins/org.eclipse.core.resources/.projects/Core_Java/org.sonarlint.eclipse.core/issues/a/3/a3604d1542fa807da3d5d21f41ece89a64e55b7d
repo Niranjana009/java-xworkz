@@ -1,0 +1,11 @@
+
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHüRINFOZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ãþ²¾þÿÿÿÿHýRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¤ãÚöHþRMAJORZ
+CODE_SMELL
+w
+java:S1192	"HDefine a constant instead of duplicating this literal "digital" 3 times.(¾Üø­HøRCRITICALZ
+CODE_SMELL

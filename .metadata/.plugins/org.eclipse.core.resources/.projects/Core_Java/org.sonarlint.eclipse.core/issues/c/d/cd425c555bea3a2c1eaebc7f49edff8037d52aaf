@@ -1,0 +1,12 @@
+
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‘ÊÎ8°´ê©–0Hû
+RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHü
+RINFOZ
+CODE_SMELL
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(ñÓèò8°´ê©–0Hý
+RMAJORZ
+CODE_SMELL

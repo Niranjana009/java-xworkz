@@ -1,0 +1,5 @@
+package com.xworkz.core_java.collections.hashSetDtoDaoService.dao;
+
+public class TrainDaoImpl {
+
+}

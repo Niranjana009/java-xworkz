@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\_xWorkz\Git\java-xworkz\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

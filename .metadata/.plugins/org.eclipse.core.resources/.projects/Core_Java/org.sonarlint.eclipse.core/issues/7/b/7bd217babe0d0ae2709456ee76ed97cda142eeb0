@@ -1,0 +1,6 @@
+
+”
+java:S1488"\Immediately throw this expression instead of assigning it to the temporary variable "azExp".(ÛÚœÁþÿÿÿÿ8ÖÒØŸ0HÕRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«Ü’í8ÖÒØŸ0HØRMAJORZ
+CODE_SMELL

@@ -1,0 +1,19 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(„íí8ö±œ’0H¥RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.( ‡Ê8Å÷Û0H¦RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ßÆØŒúÿÿÿÿ8¾†—³0HªRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(³È¶Ö8­³¾Ì0H«RMAJORZ
+CODE_SMELL
+`
+java:S1481"-Remove this unused "student1" local variable.(ÿÓ€8é®¹Í0H¬RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(£ã…8¢ğí³0H®RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ËÒ÷Áıÿÿÿÿ8å±ç³0H¯RMAJORZ
+CODE_SMELL
+o
+java:S1854"<Remove this useless assignment to local variable "student1".(ÿÓ€8é®¹Í0H²RMAJORZ
+CODE_SMELL

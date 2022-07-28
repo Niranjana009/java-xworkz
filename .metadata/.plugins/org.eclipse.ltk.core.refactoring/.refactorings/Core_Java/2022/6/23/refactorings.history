@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Core_Java/src/com/xworkz/core_java/Constructor/counter.java&apos; to &apos;Counter.java&apos;" description="Rename resource &apos;counter.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/xworkz/core_java/Constructor/counter.java" name="Counter.java" stamp="1654244951731" updateReferences="true"/>
+</session>

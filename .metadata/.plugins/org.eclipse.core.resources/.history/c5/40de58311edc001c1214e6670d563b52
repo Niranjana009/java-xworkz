@@ -1,0 +1,7 @@
+package com.xworkz.core_java.OOps.Inheritance.Single_Inheritance.Bird_Eagle;
+
+public class Honda extends Bike{
+	void silencer() {
+		System.out.println("Makes noise");
+	}
+}

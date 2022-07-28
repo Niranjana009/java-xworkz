@@ -1,0 +1,15 @@
+
+j
+java:S1854"9Remove this useless assignment to local variable "tiger".(»ÄÀÿÿÿÿÿHÌ
+RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(”˜Ù¹HÍ
+RMAJORZ
+CODE_SMELL
+[
+java:S1481"*Remove this unused "tiger" local variable.(»ÄÀÿÿÿÿÿHÎ
+RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(­Ì¡’øÿÿÿÿHĞ
+RMAJORZ
+CODE_SMELL

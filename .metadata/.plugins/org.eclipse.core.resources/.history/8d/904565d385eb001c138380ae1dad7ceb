@@ -1,0 +1,10 @@
+package com.xworkz.core_java.Aptitude_Pgms.Java_Number_Pgms;
+
+public class ReverseUsingRecursion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

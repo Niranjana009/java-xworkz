@@ -1,0 +1,10 @@
+package com.xworkz.core_java.collections.set.hashset;
+
+public class HashSetDemo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

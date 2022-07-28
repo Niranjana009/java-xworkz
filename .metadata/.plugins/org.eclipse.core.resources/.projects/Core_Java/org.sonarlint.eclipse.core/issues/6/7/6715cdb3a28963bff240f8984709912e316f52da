@@ -1,0 +1,14 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(á‹ü8³ƒ–Ü0HÕRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.( ¡¾şÿÿÿÿ8˜¶‘Ü0HÓRMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÑRINFOZ
+CODE_SMELL
+k
+java:S1854	"8Remove this useless assignment to local variable "num2".(°Ñ¡™8Û·›Ü0HØRMAJORZ
+CODE_SMELL
+\
+java:S1481	")Remove this unused "num2" local variable.(°Ñ¡™8Û·›Ü0HÙRMINORZ
+CODE_SMELL

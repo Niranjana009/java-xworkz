@@ -1,0 +1,15 @@
+package com.xworkz.core_java.OOps.Polymorphism;
+
+public class MethodOverloadingDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Add add = new Add();
+		
+		System.out.println("Sum of two numbers 2 + 3 = "+add.add(2,3));
+		System.out.println("Sum of two numbers 2 + 3 = "+add.add(2,3,4));
+		
+	}
+
+}

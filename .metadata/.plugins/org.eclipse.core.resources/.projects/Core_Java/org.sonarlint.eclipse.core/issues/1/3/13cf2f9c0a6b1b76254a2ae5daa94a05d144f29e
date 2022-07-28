@@ -1,0 +1,9 @@
+
+b
+java:S1135"2Complete the task associated to this TODO comment.(ป ๆÿÿÿÿÿHหRINFOZ
+CODE_SMELL
+
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(โํสื8๖๙ิ๖ก0HัRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Üน”อ8๖๙ิ๖ก0HำRMAJORZ
+CODE_SMELL

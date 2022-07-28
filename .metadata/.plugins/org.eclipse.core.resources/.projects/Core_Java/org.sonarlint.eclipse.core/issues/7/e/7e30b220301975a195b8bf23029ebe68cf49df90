@@ -1,0 +1,24 @@
+
+m
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ô“û¥ýÿÿÿÿ8ôà÷Ë¡0H™!RMAJORZBUG
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(Èêèáþÿÿÿÿ8ôà÷Ë¡0Hž!RMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.( Æ·äøÿÿÿÿ8ôà÷Ë¡0HŸ!RMAJORZ
+CODE_SMELL
+h
+java:S49730"<Strings and Boxed types should be compared using "equals()".(ÎŠðŽ8ôà÷Ë¡0H !RMAJORZBUG
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(Ëäý‹8ôà÷Ë¡0H¥!RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(åŒç•üÿÿÿÿ8ôà÷Ë¡0H¦!RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(î´¹‘ûÿÿÿÿ8ôà÷Ë¡0H¨!RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(âÈ‰´þÿÿÿÿ8ôà÷Ë¡0H©!RMAJORZ
+CODE_SMELL
+p	java:S106;"9Replace this use of System.out or System.err by a logger.(þñ‚Ÿýÿÿÿÿ8ôà÷Ë¡0Hª!RMAJORZ
+CODE_SMELL
+h
+java:S4973 "<Strings and Boxed types should be compared using "equals()".(“óäù8ôà÷Ë¡0H«!RMAJORZBUG
+n	java:S125"<This block of commented-out lines of code should be removed.(þ´šÅ8šã³Ÿ¢0H°!RMAJORZ
+CODE_SMELL
