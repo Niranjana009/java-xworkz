@@ -10,7 +10,7 @@ public class methodOverridingEx {
 		
 		sbi.intrest();
 		hdfc.intrest();
-		rbi.intrest();
+		rbi.intrest();//ttttt
 		
 		
 		
