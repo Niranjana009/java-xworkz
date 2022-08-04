@@ -9,7 +9,9 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.concurrent.atomic.AtomicInteger;
+
 
 import com.xworkz.job.constant.Designation;
 import com.xworkz.job.constant.Qualification;
@@ -161,12 +163,52 @@ public class JobDAOImpl implements JobDAO {
 	}
 
 	public Boolean isFresherById(Integer id) {
-		// TODO Auto-generated method stub
+		try {
+			Connection connection = DriverManager.getConnection(URL.getValue(), USERNAME.getValue(), SECRET.getValue());
+			String sql = "select * from job.job_application_details where jid = ?";
+			PreparedStatement stmt = connection.prepareStatement(sql);
+			stmt.setInt(1, id);
+			ResultSet resultSet = stmt.executeQuery();
+			while(resultSet.next()) {
+				Integer jid = resultSet.getInt(1);
+				String level = resultSet.getString(6);
+				
+				JobDTO jobDTO = new JobDTO();
+				jobDTO.setJid(jid);
+				jobDTO.setFresher(level);
+				if(jobDTO.getFresher().equals("yes")) {
+					return true;
+				}
+				else {
+					return false;
+				}
+			}
+			
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		return null;
 	}
 
 	public Double getMaxPercentage() {
-		// TODO Auto-generated method stub
+		try {
+			Connection connection = DriverManager.getConnection(URL.getValue(), USERNAME.getValue(), SECRET.getValue());
+			String sql = "SELECT MAX(percentage) FROM job.job_application_details";
+			Statement statement = connection.createStatement();
+			ResultSet resultSet = statement.executeQuery(sql);
+			Double max = 0.00;
+			while(resultSet.next()) {
+				double percentage = resultSet.getDouble(1);
+				if(percentage>max) {
+					max=percentage;
+				}
+				return max;
+			}
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		return null;
 	}
 
