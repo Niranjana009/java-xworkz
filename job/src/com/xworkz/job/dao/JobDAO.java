@@ -6,7 +6,8 @@ public interface JobDAO {
 	
 	public Boolean saveDetails(JobDTO jobDTO);
 	public JobDTO findByID(Integer id);
-	public JobDTO findByIdAndDesignation(Integer id, String designation, String qualification);
+	public JobDTO findByIdAndDesignation(Integer id, String designation);
+	public JobDTO findByIdAndDesignationAndQualification(Integer id,String designation,String qualification);
 	public Integer getTotal();
 	public Boolean isFresherById(Integer id);
 	public Double getMaxPercentage();
